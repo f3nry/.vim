@@ -1,4 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_cnt =5
 let g:netrw_dirhist_1='/Users/paul/GitRepos/searchaspecialist/app/views/specialist/registration'
 let g:netrw_dirhist_2='/Users/paul/GitRepos/fbcoverphotos/.git'
+let g:netrw_dirhist_3='/Users/paul/iClassProPC/Importing'
+let g:netrw_dirhist_4='/Users/paul/GitRepos/instagram-ruby-gem/spec/instagram'
+let g:netrw_dirhist_5='/Users/paul/GitRepos/rpm_contrib/lib/rpm_contrib'
